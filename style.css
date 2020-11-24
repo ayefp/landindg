@@ -33,8 +33,8 @@ button {
 	border: none;
 }
 .cards-wrap {
-	width: 860px;
-	margin: 50px auto;
+	width 70%;
+	margin: 60px auto;
 }
 .cards-container {
 	display: flex;
