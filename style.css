@@ -33,7 +33,7 @@ button {
 	border: none;
 }
 .cards-wrap {
-	margin: 60px auto;
+	margin: auto;
 }
 .cards-container {
 	display: flex;
